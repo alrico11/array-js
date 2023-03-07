@@ -19,11 +19,17 @@ wadah3.push("rayo")
 console.log(wadah3[5],"\n",'================')
 
 //Array 2D
+// let wadah = [
+//     ["gula","air","garam","beras","merica"],
+//     ["buku tulis","koran","hvs","folio","A3"],
+//     ["barcelona","r madrid","a madrid","r sociedad","r betis"]
+// ]
 let wadah = [
-    ["gula","air","garam","beras","merica"],
-    ["buku tulis","koran","hvs","folio","A3"],
-    ["barcelona","r madrid","a madrid","r sociedad","r betis"]
+    wadah1,
+    wadah2,
+    wadah3
 ]
+// console.log(wadahku)
 console.log(wadah[0][2])
 console.log(wadah[0][4])
 console.log(wadah[1][2])

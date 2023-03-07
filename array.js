@@ -1,5 +1,5 @@
 //unshift buat masukin data ke depan
-
+//array.length-1 buat ambil nilai terakhir
 
 let wadah1 = ["gula","air","garam","beras","merica","masako"]
 console.log(wadah1[1])

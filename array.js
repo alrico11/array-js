@@ -1,5 +1,7 @@
 //unshift buat masukin data ke depan
 //array.length-1 buat ambil nilai terakhir
+
+console.log("TUGAS 1")
 let wadah1 = ["gula","air","garam","beras","merica"]
 console.log(wadah1[1])
 console.log(wadah1[3])
@@ -30,9 +32,10 @@ let wadah = [
     wadah3
 ]
 // console.log(wadahku)
+console.log("TUGAS 2")
 console.log(wadah[0][2])
-console.log(wadah[0][4])
+console.log(wadah[0][4],"\n")
 console.log(wadah[1][2])
-console.log(wadah[1][4])
+console.log(wadah[1][4],"\n")
 console.log(wadah[2][2])
 console.log(wadah[2][4])

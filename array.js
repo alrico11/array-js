@@ -1,6 +1,5 @@
 //unshift buat masukin data ke depan
 //array.length-1 buat ambil nilai terakhir
-
 let wadah1 = ["gula","air","garam","beras","merica"]
 console.log(wadah1[1])
 console.log(wadah1[3])
@@ -17,4 +16,17 @@ let wadah3 = ["barcelona","r madrid","a madrid","r sociedad","r betis"]
 console.log(wadah3[1])
 console.log(wadah3[3])
 wadah3.push("rayo")
-console.log(wadah3[5],"\n")
+console.log(wadah3[5],"\n",'================')
+
+//Array 2D
+let wadah = [
+    ["gula","air","garam","beras","merica"],
+    ["buku tulis","koran","hvs","folio","A3"],
+    ["barcelona","r madrid","a madrid","r sociedad","r betis"]
+]
+console.log(wadah[0][2])
+console.log(wadah[0][4])
+console.log(wadah[1][2])
+console.log(wadah[1][4])
+console.log(wadah[2][2])
+console.log(wadah[2][4])
